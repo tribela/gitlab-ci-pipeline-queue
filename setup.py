@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name='gitlab-ci-pipeline-queue',
-    version='0.0.1',
+    version='0.0.2',
     author='Kjwon15',
     author_email='kjwonmail@gmail.com',
     description='Lock job until older pipeline finished',
